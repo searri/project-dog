@@ -2,7 +2,7 @@
 title: Documents
 feature_text: |
   ## D.O.G. Technical Documents
-feature_image: "/assets/orange.png"
+feature_image: "/project-dog/assets/orange.png"
 text_color: white
 ---
 

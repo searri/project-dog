@@ -2,7 +2,7 @@
 title: DOG Team
 feature_text: |
   ## D.O.G. Team
-feature_image: "/assets/orange.png"
+feature_image: "/project-dog/assets/orange.png"
 text_color: white
 ---
 

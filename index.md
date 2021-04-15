@@ -3,7 +3,7 @@ title: About DOG
 feature_text: |
   ## Digital Orientation Guide
   An app designed for accessibility
-feature_image: "assets/orange.png"
+feature_image: "/project-dog/assets/orange.png"
 text_color: white
 ---
 

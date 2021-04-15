@@ -82,13 +82,13 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /
+  url: /project-dog/
 - title: Meet Our Team
-  url: /team/
+  url: /project-dog/team/
 - title: Documents
-  url: /docs/
+  url: /project-dog/docs/
 - title: Search
-  url: /search/
+  url: /project-dog/search/
 
 navigation_footer:
 - title: "A project for CSCI 4243-44: Senior Design"
