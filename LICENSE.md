@@ -1,6 +1,6 @@
 # Released under MIT License
 
-Copyright for portions of the Project DOG website are held by Abhishek Nagekar, 2017 as part of the Wall-E Theme. All other copyright for the Project DOG website are held by the George Washington University, 2021.
+Copyright for portions of the Project DOG website are held by David Barnes, 2017 as part of the Alembic Theme. All other copyright for the Project DOG website are held by the George Washington University, 2021.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

@@ -2,11 +2,20 @@
 layout: default
 ---
 
-<div class="post-container">
-    <center>
-        <h1 class="post-title">{{ page.title }}</h1>
-    </center>
-    <div class="ui divider"></div>
+{% include site-header.html %}
+
+<main class="main  container">
+
+  <article class="article  article--page  content  typeset">
+
+    <h1>{{ page.title }}</h1>
+
     {{ content }}
-    <br/>
-</div>
+
+  </article>
+
+  {% if page.aside == true %}{% include site-aside.html %}{% endif %}
+
+</main>
+
+{% include site-footer.html %}
