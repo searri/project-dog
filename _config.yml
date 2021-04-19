@@ -85,8 +85,6 @@ navigation_header:
   url: /project-dog/team/
 - title: Documents
   url: /project-dog/docs/
-- title: Search
-  url: /project-dog/search/
 
 navigation_footer:
 - title: "A project for CSCI 4243-44: Senior Design"

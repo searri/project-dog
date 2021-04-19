@@ -4,6 +4,7 @@ feature_text: |
   ## D.O.G. Team
 feature_image: "/project-dog/assets/orange.png"
 text_color: white
+aside: true
 ---
 
 Meet the D.O.G. development team!
@@ -13,8 +14,6 @@ Meet the D.O.G. development team!
 *bio/pic here*
 
 #### Rick Sear
-
-*pic here*
 
 Rick specializes in machine learning. He is involved with research analyzing the dynamics of online misinformation and extremism. You can find out more on [his website](https://searri.github.io).
 
