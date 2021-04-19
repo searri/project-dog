@@ -11,7 +11,7 @@ Meet the D.O.G. development team!
 
 #### Selin Onal
 
-*bio/pic here*
+*bio here*
 
 #### Rick Sear
 
@@ -21,4 +21,4 @@ On the D.O.G. team, Rick trained the sign detection model used in the app as wel
 
 #### Jack Sloane
 
-*bio/pic here*
+*bio here*
