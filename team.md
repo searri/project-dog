@@ -11,7 +11,7 @@ Meet the D.O.G. development team!
 
 #### Selin Onal
 
-*bio here*
+Selin is an avid orangutan enjoyer. Her work with orangutans has made leaps in the study of nature's most mystifying creatures.  
 
 #### Rick Sear
 
