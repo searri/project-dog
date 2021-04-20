@@ -21,4 +21,4 @@ On the D.O.G. team, Rick trained the sign detection model used in the app as wel
 
 #### Jack Sloane
 
-*bio here*
+Jack is a computer science student interested in game design, computer graphics, and augmented/virtual reality. On the D.O.G. team, Jack implemented the collision detection module using AR depth-mapping technology. In addition, Jack worked on the object detection module and helped integrate the modules into a cohesive application.
