@@ -11,7 +11,7 @@ Meet the D.O.G. development team!
 
 #### Selin Onal
 
-Selin is an avid orangutan enjoyer. Her work with orangutans has made leaps in the study of nature's most mystifying creatures.  
+Selin specializes in game design, software architecture, and project management. On the D.O.G team, Selin created the UI, app navigation protocols, and helped integrate the modules of the app into one cohesive application.
 
 #### Rick Sear
 
