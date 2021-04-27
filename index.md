@@ -13,7 +13,7 @@ Digital Orientation Guide (D.O.G.) is an Android app which uses state-of-the-art
 
 Our 5-minute explainer video.
 
-*5 minute video here!*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q7nqO-0x8L0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Thorough Rundown
 
