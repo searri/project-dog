@@ -15,5 +15,4 @@ This page contains links to several technical documents written during the class
 
 - [Writing Assignment 2](/project-dog/assets/docs/w2.pdf)
 - [Writing Assignment 3](/project-dog/assets/docs/w3.pdf)
-- Final Report
-    - *Not yet posted*
+- [Final Report](/project-dog/assets/docs/final.pdf)
