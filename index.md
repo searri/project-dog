@@ -19,4 +19,4 @@ Our 5-minute explainer video.
 
 Our longer presentation of the project. This is bigger, more thorough, and more technical.
 
-<iframe width="1904" height="768" src="https://www.youtube.com/embed/v7aJbRaYJuM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v7aJbRaYJuM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
